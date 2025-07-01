@@ -1,4 +1,4 @@
-import { greet } from './index';
+import { greet } from '../src/index';
 
 describe('greet', () => {
   it('should return a greeting', () => {
